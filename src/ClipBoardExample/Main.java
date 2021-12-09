@@ -15,7 +15,7 @@ import javafx.scene.web.HTMLEditor;
 import javafx.stage.Stage;
 
 public class Main extends Application{
-    private Font font1 = Font.font("Times", FontWeight.NORMAL, 14);
+    private Font font1 = Font.font("Segoe Print", FontWeight.NORMAL, 14);
     private Font font2 = Font.font("Arial", FontWeight.BOLD, FontPosture.ITALIC, 20);
     private Font currentFont = font1;
     private MyTextArea textArea;
